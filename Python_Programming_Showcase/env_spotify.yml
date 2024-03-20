@@ -1,0 +1,17 @@
+name: spotify_analysis
+channels:
+- defaults
+- conda-forge
+- anaconda
+dependencies:
+- "python = 3.8"
+- jupyter
+- jupyterlab
+- setuptools
+- numpy
+- scipy
+- git
+- matplotlib
+- pandas
+- seaborn
+- plotly
